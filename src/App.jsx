@@ -64,7 +64,7 @@ function App() {
                   <Component.Input type="password" placeholder="Password" />
                   <Component.Button onClick={handleSignUp}>
                     Sign Up
-                  </Component.Button>
+                  </Component.Button>cd
                 </Component.Form>
               </Component.SignUpContainer>
 
